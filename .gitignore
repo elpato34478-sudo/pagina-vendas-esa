@@ -1,0 +1,13 @@
+# Arquivos de scan temporários
+uploads/scan-pg*.png
+
+# Imagens não usadas na página
+uploads/apostila-pg003.png
+uploads/apostila-pg010.png
+uploads/apostila-pg020.png
+uploads/apostila-pg050.png
+uploads/apostila-pg080.png
+uploads/apostila-pg130.png
+uploads/apostila-pg200.png
+
+.DS_Store
